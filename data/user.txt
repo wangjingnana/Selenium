@@ -1,0 +1,7 @@
+id	key 	youxiang
+2088111123453432	aaa111364h6jd8fkaaa111364h6jd8fk	727366326@qq.com
+2088111123453433	bbb111364h6jd8fkaaa111364h6jd8fk¥—	727366326@qq.com
+2088111123453434	ccc111364h6jd8fkaaa111364h6jd8fk§’	727366326@qq.com
+
+
+@Test(dataProvider="partner",dataProviderClass=NSDataProvider.class)
